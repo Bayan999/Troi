@@ -12,8 +12,8 @@ struct favorite: View {
         
         VStack{
             ZStack {
-                //                Color("11")
-                //                    .ignoresSafeArea()
+                               Color("1")
+                                    .ignoresSafeArea()
                 
                 Image("background2")
                     .resizable()
