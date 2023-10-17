@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4DC410A02ADEA36100A2AEE9 /* sound1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4DC4109F2ADEA36100A2AEE9 /* sound1.mp3 */; };
 		B1BD5B9F2ADE791B00EEE84D /* troiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5B9E2ADE791B00EEE84D /* troiApp.swift */; };
 		B1BD5BA12ADE791B00EEE84D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BA02ADE791B00EEE84D /* ContentView.swift */; };
 		B1BD5BA32ADE791C00EEE84D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1BD5BA22ADE791C00EEE84D /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4DC4109F2ADEA36100A2AEE9 /* sound1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound1.mp3; sourceTree = "<group>"; };
 		B1BD5B9B2ADE791B00EEE84D /* troi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = troi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1BD5B9E2ADE791B00EEE84D /* troiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = troiApp.swift; sourceTree = "<group>"; };
 		B1BD5BA02ADE791B00EEE84D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,9 +64,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4DC410A12ADEA36B00A2AEE9 /* sound */ = {
+			isa = PBXGroup;
+			children = (
+				4DC4109F2ADEA36100A2AEE9 /* sound1.mp3 */,
+			);
+			path = sound;
+			sourceTree = "<group>";
+		};
 		B1BD5B922ADE791B00EEE84D = {
 			isa = PBXGroup;
 			children = (
+				4DC410A12ADEA36B00A2AEE9 /* sound */,
 				B1BD5B9D2ADE791B00EEE84D /* troi */,
 				B1BD5B9C2ADE791B00EEE84D /* Products */,
 			);
@@ -170,6 +181,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DC410A02ADEA36100A2AEE9 /* sound1.mp3 in Resources */,
 				B1BD5BA62ADE791C00EEE84D /* Preview Assets.xcassets in Resources */,
 				B1BD5BA32ADE791C00EEE84D /* Assets.xcassets in Resources */,
 			);
