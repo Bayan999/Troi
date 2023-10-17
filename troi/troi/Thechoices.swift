@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Thechoices: View {
     
-    
+    //
     
     @State private var searchTerm = ""
     @State private var currentTab = 0
