@@ -11,6 +11,21 @@
 		B1BD5BA12ADE791B00EEE84D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BA02ADE791B00EEE84D /* ContentView.swift */; };
 		B1BD5BA32ADE791C00EEE84D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1BD5BA22ADE791C00EEE84D /* Assets.xcassets */; };
 		B1BD5BA62ADE791C00EEE84D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1BD5BA52ADE791C00EEE84D /* Preview Assets.xcassets */; };
+		B1BD5BAD2ADE7D3A00EEE84D /* creat_acc.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BAC2ADE7D3A00EEE84D /* creat_acc.swift */; };
+		B1BD5BAF2ADE7D7D00EEE84D /* withApple.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BAE2ADE7D7D00EEE84D /* withApple.swift */; };
+		B1BD5BB12ADE7DBA00EEE84D /* profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BB02ADE7DBA00EEE84D /* profile.swift */; };
+		B1BD5BB32ADE7E3C00EEE84D /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BB22ADE7E3C00EEE84D /* TabBar.swift */; };
+		B1BD5BB52ADE7E7800EEE84D /* main_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BB42ADE7E7800EEE84D /* main_page.swift */; };
+		B1BD5BB72ADE7EA200EEE84D /* otp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BB62ADE7EA200EEE84D /* otp.swift */; };
+		B1BD5BB92ADE7EE300EEE84D /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BB82ADE7EE300EEE84D /* OnboardingView.swift */; };
+		B1BD5BBB2ADE7F3D00EEE84D /* OnboardingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BBA2ADE7F3D00EEE84D /* OnboardingData.swift */; };
+		B1BD5BBD2ADE7F7900EEE84D /* AudioPlay2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BBC2ADE7F7900EEE84D /* AudioPlay2.swift */; };
+		B1BD5BBF2ADE7FA800EEE84D /* AudioPlay1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BBE2ADE7FA800EEE84D /* AudioPlay1.swift */; };
+		B1BD5BC12ADE800200EEE84D /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BC02ADE800200EEE84D /* Alerts.swift */; };
+		B1BD5BC32ADE803A00EEE84D /* frends.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BC22ADE803A00EEE84D /* frends.swift */; };
+		B1BD5BC52ADE807200EEE84D /* share.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BC42ADE807200EEE84D /* share.swift */; };
+		B1BD5BC72ADE80A500EEE84D /* Thechoices.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BC62ADE80A500EEE84D /* Thechoices.swift */; };
+		B1BD5BC92ADE80D700EEE84D /* favoreti.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1BD5BC82ADE80D700EEE84D /* favoreti.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,21 @@
 		B1BD5BA02ADE791B00EEE84D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B1BD5BA22ADE791C00EEE84D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1BD5BA52ADE791C00EEE84D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B1BD5BAC2ADE7D3A00EEE84D /* creat_acc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creat_acc.swift; sourceTree = "<group>"; };
+		B1BD5BAE2ADE7D7D00EEE84D /* withApple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = withApple.swift; sourceTree = "<group>"; };
+		B1BD5BB02ADE7DBA00EEE84D /* profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profile.swift; sourceTree = "<group>"; };
+		B1BD5BB22ADE7E3C00EEE84D /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		B1BD5BB42ADE7E7800EEE84D /* main_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main_page.swift; sourceTree = "<group>"; };
+		B1BD5BB62ADE7EA200EEE84D /* otp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = otp.swift; sourceTree = "<group>"; };
+		B1BD5BB82ADE7EE300EEE84D /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		B1BD5BBA2ADE7F3D00EEE84D /* OnboardingData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingData.swift; sourceTree = "<group>"; };
+		B1BD5BBC2ADE7F7900EEE84D /* AudioPlay2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlay2.swift; sourceTree = "<group>"; };
+		B1BD5BBE2ADE7FA800EEE84D /* AudioPlay1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlay1.swift; sourceTree = "<group>"; };
+		B1BD5BC02ADE800200EEE84D /* Alerts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
+		B1BD5BC22ADE803A00EEE84D /* frends.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frends.swift; sourceTree = "<group>"; };
+		B1BD5BC42ADE807200EEE84D /* share.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = share.swift; sourceTree = "<group>"; };
+		B1BD5BC62ADE80A500EEE84D /* Thechoices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Thechoices.swift; sourceTree = "<group>"; };
+		B1BD5BC82ADE80D700EEE84D /* favoreti.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favoreti.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +81,23 @@
 		B1BD5B9D2ADE791B00EEE84D /* troi */ = {
 			isa = PBXGroup;
 			children = (
-				B1BD5B9E2ADE791B00EEE84D /* troiApp.swift */,
 				B1BD5BA02ADE791B00EEE84D /* ContentView.swift */,
+				B1BD5B9E2ADE791B00EEE84D /* troiApp.swift */,
+				B1BD5BAC2ADE7D3A00EEE84D /* creat_acc.swift */,
+				B1BD5BAE2ADE7D7D00EEE84D /* withApple.swift */,
+				B1BD5BB02ADE7DBA00EEE84D /* profile.swift */,
+				B1BD5BB22ADE7E3C00EEE84D /* TabBar.swift */,
+				B1BD5BB42ADE7E7800EEE84D /* main_page.swift */,
+				B1BD5BB62ADE7EA200EEE84D /* otp.swift */,
+				B1BD5BB82ADE7EE300EEE84D /* OnboardingView.swift */,
+				B1BD5BBA2ADE7F3D00EEE84D /* OnboardingData.swift */,
+				B1BD5BBC2ADE7F7900EEE84D /* AudioPlay2.swift */,
+				B1BD5BBE2ADE7FA800EEE84D /* AudioPlay1.swift */,
+				B1BD5BC02ADE800200EEE84D /* Alerts.swift */,
+				B1BD5BC22ADE803A00EEE84D /* frends.swift */,
+				B1BD5BC42ADE807200EEE84D /* share.swift */,
+				B1BD5BC62ADE80A500EEE84D /* Thechoices.swift */,
+				B1BD5BC82ADE80D700EEE84D /* favoreti.swift */,
 				B1BD5BA22ADE791C00EEE84D /* Assets.xcassets */,
 				B1BD5BA42ADE791C00EEE84D /* Preview Content */,
 			);
@@ -137,8 +182,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1BD5BBF2ADE7FA800EEE84D /* AudioPlay1.swift in Sources */,
+				B1BD5BC32ADE803A00EEE84D /* frends.swift in Sources */,
+				B1BD5BB52ADE7E7800EEE84D /* main_page.swift in Sources */,
+				B1BD5BAF2ADE7D7D00EEE84D /* withApple.swift in Sources */,
+				B1BD5BC52ADE807200EEE84D /* share.swift in Sources */,
+				B1BD5BAD2ADE7D3A00EEE84D /* creat_acc.swift in Sources */,
+				B1BD5BB92ADE7EE300EEE84D /* OnboardingView.swift in Sources */,
 				B1BD5BA12ADE791B00EEE84D /* ContentView.swift in Sources */,
+				B1BD5BB32ADE7E3C00EEE84D /* TabBar.swift in Sources */,
+				B1BD5BBB2ADE7F3D00EEE84D /* OnboardingData.swift in Sources */,
+				B1BD5BC72ADE80A500EEE84D /* Thechoices.swift in Sources */,
+				B1BD5BC12ADE800200EEE84D /* Alerts.swift in Sources */,
+				B1BD5BB12ADE7DBA00EEE84D /* profile.swift in Sources */,
 				B1BD5B9F2ADE791B00EEE84D /* troiApp.swift in Sources */,
+				B1BD5BB72ADE7EA200EEE84D /* otp.swift in Sources */,
+				B1BD5BBD2ADE7F7900EEE84D /* AudioPlay2.swift in Sources */,
+				B1BD5BC92ADE80D700EEE84D /* favoreti.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

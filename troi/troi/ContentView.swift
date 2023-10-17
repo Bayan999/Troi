@@ -29,8 +29,8 @@ struct ContentView: View {
                                 
                             }
                             .fullScreenCover(isPresented: $isShowingfullScreen) {
-//                              //MARK: uncomment thisss
-                               // TabBar()
+                              //MARK: uncomment thisss
+                               TabBar()
                             }
                         }
                     }
@@ -122,7 +122,7 @@ struct ContentView: View {
                             }
                             .sheet(isPresented: $isShowingSheet) {
                                 //MARK: uncomment thisss
-//                                withApple()
+                              withApple()
                             }.padding(.bottom, 480.0)
                                 
                                 
